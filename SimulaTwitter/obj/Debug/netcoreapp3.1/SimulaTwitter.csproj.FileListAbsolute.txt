@@ -1,0 +1,14 @@
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\bin\Debug\netcoreapp3.1\SimulaTwitter.exe
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\bin\Debug\netcoreapp3.1\SimulaTwitter.deps.json
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\bin\Debug\netcoreapp3.1\SimulaTwitter.runtimeconfig.json
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\bin\Debug\netcoreapp3.1\SimulaTwitter.runtimeconfig.dev.json
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\bin\Debug\netcoreapp3.1\SimulaTwitter.dll
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\bin\Debug\netcoreapp3.1\SimulaTwitter.pdb
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\obj\Debug\netcoreapp3.1\SimulaTwitter.csproj.AssemblyReference.cache
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\obj\Debug\netcoreapp3.1\SimulaTwitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\obj\Debug\netcoreapp3.1\SimulaTwitter.AssemblyInfoInputs.cache
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\obj\Debug\netcoreapp3.1\SimulaTwitter.AssemblyInfo.cs
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\obj\Debug\netcoreapp3.1\SimulaTwitter.csproj.CoreCompileInputs.cache
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\obj\Debug\netcoreapp3.1\SimulaTwitter.dll
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\obj\Debug\netcoreapp3.1\SimulaTwitter.pdb
+C:\Users\moises.alves\source\repos\SimulaTwitter\SimulaTwitter\obj\Debug\netcoreapp3.1\SimulaTwitter.genruntimeconfig.cache
